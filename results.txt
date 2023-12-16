@@ -1,0 +1,368 @@
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 10
+[INFO] wavelet features, pca dimensionality reduction, 10 components. Accuracy: 0.6666666666666666
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 20
+[INFO] wavelet features, pca dimensionality reduction, 20 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 30
+[INFO] wavelet features, pca dimensionality reduction, 30 components. Accuracy: 0.7333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 40
+[INFO] wavelet features, pca dimensionality reduction, 40 components. Accuracy: 0.6666666666666666
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 50
+[INFO] wavelet features, pca dimensionality reduction, 50 components. Accuracy: 0.6666666666666666
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 60
+[INFO] wavelet features, pca dimensionality reduction, 60 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 70
+[INFO] wavelet features, pca dimensionality reduction, 70 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 72
+[INFO] wavelet features, pca dimensionality reduction, 72 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 72
+======================================= END OF pca =======================================
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 10
+[INFO] wavelet features, ica dimensionality reduction, 10 components. Accuracy: 0.8
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 20
+[INFO] wavelet features, ica dimensionality reduction, 20 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 30
+[INFO] wavelet features, ica dimensionality reduction, 30 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 40
+[INFO] wavelet features, ica dimensionality reduction, 40 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 50
+[INFO] wavelet features, ica dimensionality reduction, 50 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 60
+[INFO] wavelet features, ica dimensionality reduction, 60 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 70
+[INFO] wavelet features, ica dimensionality reduction, 70 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 72
+======================================= END OF ica =======================================
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 10
+[INFO] wavelet features, k-best dimensionality reduction, 10 components. Accuracy: 0.7333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 20
+[INFO] wavelet features, k-best dimensionality reduction, 20 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 30
+[INFO] wavelet features, k-best dimensionality reduction, 30 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 40
+[INFO] wavelet features, k-best dimensionality reduction, 40 components. Accuracy: 1.0
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 50
+[INFO] wavelet features, k-best dimensionality reduction, 50 components. Accuracy: 1.0
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 60
+[INFO] wavelet features, k-best dimensionality reduction, 60 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 70
+[INFO] wavelet features, k-best dimensionality reduction, 70 components. Accuracy: 0.8
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 80
+[INFO] wavelet features, k-best dimensionality reduction, 80 components. Accuracy: 0.8666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 90
+[INFO] wavelet features, k-best dimensionality reduction, 90 components. Accuracy: 0.8666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 100
+[INFO] wavelet features, k-best dimensionality reduction, 100 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 110
+[INFO] wavelet features, k-best dimensionality reduction, 110 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 120
+[INFO] wavelet features, k-best dimensionality reduction, 120 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 130
+[INFO] wavelet features, k-best dimensionality reduction, 130 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 140
+[INFO] wavelet features, k-best dimensionality reduction, 140 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 150
+[INFO] wavelet features, k-best dimensionality reduction, 150 components. Accuracy: 0.8666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 160
+[INFO] wavelet features, k-best dimensionality reduction, 160 components. Accuracy: 0.8666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 170
+[INFO] wavelet features, k-best dimensionality reduction, 170 components. Accuracy: 0.8666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 180
+[INFO] wavelet features, k-best dimensionality reduction, 180 components. Accuracy: 0.8
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 190
+[INFO] wavelet features, k-best dimensionality reduction, 190 components. Accuracy: 0.9333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: wavelet features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 200
+[INFO] wavelet features, k-best dimensionality reduction, 200 components. Accuracy: 0.8
+----------------------------------------------------------------------------
+======================================= END OF k-best =======================================
+======================================= END OF wavelet =======================================
+
+
+
+
+[INFO] Extracting features: fft features
+Output is truncated. View as a scrollable element or open in a text editor. Adjust cell output settings...
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 10
+[INFO] fft features, pca dimensionality reduction, 10 components. Accuracy: 0.6666666666666666
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 20
+[INFO] fft features, pca dimensionality reduction, 20 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 30
+[INFO] fft features, pca dimensionality reduction, 30 components. Accuracy: 0.3333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 40
+[INFO] fft features, pca dimensionality reduction, 40 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 50
+[INFO] fft features, pca dimensionality reduction, 50 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 60
+[INFO] fft features, pca dimensionality reduction, 60 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 70
+[INFO] fft features, pca dimensionality reduction, 70 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: pca
+[INFO] number of components: 72
+======================================= END OF pca =======================================
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 10
+[INFO] fft features, ica dimensionality reduction, 10 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 20
+[INFO] fft features, ica dimensionality reduction, 20 components. Accuracy: 0.6
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 30
+[INFO] fft features, ica dimensionality reduction, 30 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 40
+[INFO] fft features, ica dimensionality reduction, 40 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 50
+[INFO] fft features, ica dimensionality reduction, 50 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 60
+[INFO] fft features, ica dimensionality reduction, 60 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: ica
+[INFO] number of components: 70
+[INFO] fft features, ica dimensionality reduction, 70 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+======================================= END OF ica =======================================
+
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 10
+[INFO] fft features, k-best dimensionality reduction, 10 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 20
+[INFO] fft features, k-best dimensionality reduction, 20 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 30
+[INFO] fft features, k-best dimensionality reduction, 30 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 40
+[INFO] fft features, k-best dimensionality reduction, 40 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 50
+[INFO] fft features, k-best dimensionality reduction, 50 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 60
+[INFO] fft features, k-best dimensionality reduction, 60 components. Accuracy: 0.3333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 70
+[INFO] fft features, k-best dimensionality reduction, 70 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 80
+[INFO] fft features, k-best dimensionality reduction, 80 components. Accuracy: 0.3333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 90
+[INFO] fft features, k-best dimensionality reduction, 90 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 100
+[INFO] fft features, k-best dimensionality reduction, 100 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 110
+[INFO] fft features, k-best dimensionality reduction, 110 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 120
+[INFO] fft features, k-best dimensionality reduction, 120 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 130
+[INFO] fft features, k-best dimensionality reduction, 130 components. Accuracy: 0.5333333333333333
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 140
+[INFO] fft features, k-best dimensionality reduction, 140 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 150
+[INFO] fft features, k-best dimensionality reduction, 150 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 160
+[INFO] fft features, k-best dimensionality reduction, 160 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 170
+[INFO] fft features, k-best dimensionality reduction, 170 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 180
+[INFO] fft features, k-best dimensionality reduction, 180 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 190
+[INFO] fft features, k-best dimensionality reduction, 190 components. Accuracy: 0.4
+----------------------------------------------------------------------------
+[INFO] Extracting features: fft features
+[INFO] Reducing dimensionality: k-best
+[INFO] number of components: 200
+[INFO] fft features, k-best dimensionality reduction, 200 components. Accuracy: 0.4666666666666667
+----------------------------------------------------------------------------
+======================================= END OF k-best =======================================
+======================================= END OF fft =======================================
